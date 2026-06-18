@@ -1,6 +1,10 @@
 {
 	"FileVersion": 3,
+<<<<<<< HEAD
 	"EngineAssociation": "5.4",
+=======
+	"EngineAssociation": "5.6",
+>>>>>>> origin/ZombieWork
 	"Category": "",
 	"Description": "",
 	"Plugins": [
